@@ -2,9 +2,9 @@
 
 ## Contacts
 
--*Email:* **schepkivskii@gmail.com**
--*Discord:* **XHHJlT#3822**
--*GitHub:* [**xhhjlt**](<https://github.com/xhhjlt>)
+- *Email:* **schepkivskii@gmail.com**
+- *Discord:* **XHHJlT#3822**
+- *GitHub:* [**xhhjlt**](<https://github.com/xhhjlt>)
 
 ## About me
 
@@ -49,8 +49,8 @@ var countBits = function(number) {
 
 ### English: Advanced
 
-[EF SET Certificate C1](<https://www.efset.org/cert/YGb9Lb>)
+[EF SET Certificate C1](<https://www.efset.org/cert/YGb9Lb>) Not bad with texts, but have a lot to learn further.
+
 ![Icon 70/100 C1 Advanced](<certificate_200x200.png>)
-Not bad with texts, but have a lot to learn further.
 
 ### Russian: Native
