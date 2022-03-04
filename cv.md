@@ -6,7 +6,7 @@
 - *Discord:* **XHHJlT#3822**
 - *GitHub:* [**xhhjlt**](<https://github.com/xhhjlt>)
 
-## About me
+## About myself
 
 I am at the start of my education now, but I find web-development is very exciting. Getting to the bottom of the problem, learning tools, cooperating with other people, and finally resolving it - feels really satisfying for me.
 
